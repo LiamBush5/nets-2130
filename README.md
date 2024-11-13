@@ -1,4 +1,4 @@
-Here's a revised version that flows more naturally and is less structured in bullet points, while still covering the key aspects of the project.
+Here’s the revised version with the tech stack integrated into a paragraph:
 
 ---
 
@@ -46,9 +46,4 @@ Milestones include user interface design, API development, database setup, and b
 
 ## Technical Stack
 
-- **Frontend:** React
-- **Backend:** JavaScript
-- **Database:** SupaBase
-- **AI Integration:** OpenAI API 
-
-With a total of 20 points, each component contributes to making LingoLoop a robust platform for understanding the evolution of slang across generations. The technical stack provides the backbone needed to handle data collection, analysis, and gamified interaction, while AI integration enriches the analysis and insight generation.
+LingoLoop is built with a React frontend, utilizing JavaScript for the backend, and a SupaBase database to manage and store data. Together, these tools provide the necessary infrastructure to handle data collection, analysis, and user engagement seamlessly.
