@@ -6,6 +6,14 @@ Here’s the revised version with the tech stack integrated into a paragraph:
 
 LingoLoop is a unique, crowdsourced platform that captures and analyzes generational language trends through slang, utilizing both data collection and gamified engagement. This project aims to provide a comprehensive view of how language evolves across different age groups by collecting, moderating, and visualizing slang terms, their definitions, and contextual usage.
 
+## Data
+
+We begin by describing the format of our data.
+
+The data collected from our workers is the input to the QC module. Examples are shown in `qc_input.json`. We are essentially collecting slang terms, their definitions, and example sentences from our workers. In addition, we track the worker's generation so we can later derive insights about the use of slang terms over time. Once the QC is performed, we have an output that includes all the information collected from the workers along with metrics that describe the reliability of the information.
+
+The goal of aggregation is to create multiple-choice quiz questions for a slang definition challenge as well as collect statistics on which generations use a term most commonly. As such, we take in slang definitions as inputs in `aggregation_input.json` and produce multiple choice responses plus generation usage totals in `aggregation_output.json`. Finally, we have a `raw_slang_terms.json` which tracks which words have been submitted to our system by workers.
+
 ## Project Components and Milestones
 
 ### Data Collection System
