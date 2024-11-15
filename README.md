@@ -8,7 +8,7 @@ LingoLoop is a unique, crowdsourced platform that captures and analyzes generati
 
 ## Data
 
-We begin by describing the format of our data.
+We begin by describing the format of our data. All sample inputs/outputs can be viewed in the files of the `data/` directory
 
 The data collected from our workers is the input to the QC module. Examples are shown in `qc_input.json`. We are essentially collecting slang terms, their definitions, and example sentences from our workers. In addition, for every term collected, we track the worker's generation so we can later derive insights about the use of slang terms over time. Once the QC is performed, we have an output that includes all the information collected from the workers along with metrics that describe the reliability of the information. If the collected terms have quality metrics below standards we have set, we will discard them.
 
