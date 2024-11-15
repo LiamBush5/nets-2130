@@ -28,11 +28,15 @@ Ensuring data integrity is crucial for meaningful analysis, so this module filte
 
 Key milestones involve setting up attention checks, creating filtering rules, and building the validation pipeline.
 
+See `src/qc.js` for relevant code.
+
 ### Aggregation Module
 
 The Aggregation Module compiles and organizes the collected data. Statistical analysis functions are created to evaluate trends, with clustering by generation and popularity tracking tools to visualize how terms evolve. This component not only organizes but also synthesizes insights from the data.
 
 Progress here is tracked through creating analysis functions, building clustering capabilities, and setting up tools to monitor term popularity.
+
+See `src/aggregation.js` for relevant code.
 
 ### Game Interface
 
