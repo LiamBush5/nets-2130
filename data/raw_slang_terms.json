@@ -1,0 +1,25 @@
+{
+    "terms": [
+        {
+            "id": "1",
+            "term": "cap",
+            "submitted_by": "user123",
+            "timestamp": "2024-01-15T10:30:00Z",
+            "definitions": []
+        },
+        {
+            "id": "2",
+            "term": "bet",
+            "submitted_by": "user456",
+            "timestamp": "2024-01-15T11:45:00Z",
+            "definitions": []
+        },
+        {
+            "id": "3",
+            "term": "slay",
+            "submitted_by": "user789",
+            "timestamp": "2024-01-15T12:15:00Z",
+            "definitions": []
+        }
+    ]
+}

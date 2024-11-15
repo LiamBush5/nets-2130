@@ -1,0 +1,28 @@
+{
+    "reviewed_submissions": [
+        {
+            "term_id": "1",
+            "term": "cap",
+            "definition": "To lie or be dishonest",
+            "example": "That's cap, I know you weren't at the gym yesterday",
+            "user_age": 19,
+            "generation": "Gen Z",
+            "status": "approved",
+            "quality_score": 0.9,
+            "flags": []
+        },
+        {
+            "term_id": "1",
+            "term": "cap",
+            "definition": "To not tell the truth",
+            "example": "",
+            "user_age": 25,
+            "generation": "Millennial",
+            "status": "pending",
+            "quality_score": 0.6,
+            "flags": [
+                "missing_example"
+            ]
+        }
+    ]
+}

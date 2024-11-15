@@ -1,0 +1,20 @@
+{
+    "quiz_questions": [
+        {
+            "question_id": "q1",
+            "term": "cap",
+            "correct_definition": "To lie or be dishonest",
+            "options": [
+                "To lie or be dishonest",
+                "To not tell the truth",
+                "To deceive or mislead",
+                "I don't know"
+            ],
+            "generation_mapping": {
+                "Gen Z": 0,
+                "Millennial": 1,
+                "Gen X": 2
+            }
+        }
+    ]
+}

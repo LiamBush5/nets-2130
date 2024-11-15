@@ -141,7 +141,7 @@ export function PlayComponent() {
             </CardHeader>
             <CardContent className="space-y-6">
                 <div className="text-center text-3xl font-bold mb-6">
-                    "{currentQuestion.slang_term.term}"
+                    &ldquo;{currentQuestion.slang_term.term}&rdquo;
                 </div>
                 <div className="space-y-4">
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-4">

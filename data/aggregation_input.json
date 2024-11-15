@@ -1,0 +1,21 @@
+{
+    "term_id": "1",
+    "term": "cap",
+    "approved_definitions": [
+        {
+            "definition": "To lie or be dishonest",
+            "generation": "Gen Z",
+            "quality_score": 0.9
+        },
+        {
+            "definition": "To not tell the truth",
+            "generation": "Millennial",
+            "quality_score": 0.8
+        },
+        {
+            "definition": "To deceive or mislead",
+            "generation": "Gen X",
+            "quality_score": 0.85
+        }
+    ]
+}

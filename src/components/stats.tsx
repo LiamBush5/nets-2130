@@ -1,6 +1,6 @@
 'use client'
 
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useCallback } from 'react'
 import { supabase } from '@/lib/supabaseClient'
 import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card'
 import {
@@ -20,12 +20,37 @@ import {
     ResponsiveContainer,
 } from 'recharts'
 
+type QuestionData = {
+    question_id: number;
+    option_a: string;
+    option_b: string;
+    option_c: string;
+    option_d: string;
+}
+
+type UserResponse = {
+    selected_option: string;
+    user?: {
+        generation?: {
+            generation_name: string;
+        };
+    };
+}
+
+type ChartDataPoint = {
+    generation: string;
+    'Option A': number;
+    'Option B': number;
+    'Option C': number;
+    'Option D': number;
+}
+
 export function StatsComponent() {
     const [slangTerms, setSlangTerms] = useState<{ slang_id: number; term: string }[]>([])
     const [selectedTermId, setSelectedTermId] = useState<number | null>(null)
-    const [chartData, setChartData] = useState<any[]>([])
+    const [chartData, setChartData] = useState<ChartDataPoint[]>([])
     const [loading, setLoading] = useState(false)
-    const [questionData, setQuestionData] = useState<any>(null)
+    const [questionData, setQuestionData] = useState<QuestionData | null>(null)
 
     useEffect(() => {
         fetchSlangTerms()
@@ -44,13 +69,7 @@ export function StatsComponent() {
         }
     }
 
-    useEffect(() => {
-        if (selectedTermId !== null) {
-            fetchChartData()
-        }
-    }, [selectedTermId])
-
-    const fetchChartData = async () => {
+    const fetchChartData = useCallback(async () => {
         setLoading(true)
         // Fetch the quiz question for the selected slang term
         const { data: questionData, error: questionError } = await supabase
@@ -95,9 +114,17 @@ export function StatsComponent() {
         // Process the data
         processChartData(responsesData, questionData)
         setLoading(false)
-    }
+    }, [selectedTermId])
 
-    const processChartData = (responses: any[], questionData: any) => {
+    useEffect(() => {
+        if (selectedTermId !== null) {
+            fetchChartData()
+        }
+    }, [selectedTermId, fetchChartData])
+
+    const processChartData = (responses: UserResponse[], questionData: QuestionData) => {
+        type OptionKey = 'Option A' | 'Option B' | 'Option C' | 'Option D';
+
         // Map options to labels
         const optionLabels = {
             [questionData.option_a]: 'Option A',
@@ -123,7 +150,7 @@ export function StatsComponent() {
 
             const generationData = data.find((d) => d.generation === generationName)
             if (generationData && optionLabel) {
-                generationData[optionLabel] += 1
+                generationData[optionLabel as OptionKey] += 1
             }
         })
 
