@@ -59,3 +59,23 @@ Milestones include user interface design, API development, database setup, and b
 ## Technical Stack
 
 LingoLoop is built with a React frontend, utilizing JavaScript for the backend, and a SupaBase database to manage and store data. Together, these tools provide the necessary infrastructure to handle data collection, analysis, and user engagement seamlessly.
+
+## Running The Application
+
+1. Clone the repository. Ensure you have the project files in a directory called nets2130.
+2. Install dependencies. Run the following command in the project root: yarn install  
+3. Add the Supabase library. Install the required Supabase package by running: yarn add @supabase/supabase-js  
+4. Create a .env file
+   
+In the project root, create a .env file and add the following environment variables:
+
+NEXT_PUBLIC_SUPABASE_URL=<your-supabase-url>  
+
+NEXT_PUBLIC_SUPABASE_ANON_KEY=<your-anon-key> 
+
+Note: Contact Liam for the correct credentials to use for these values.
+
+6. Start the application. Run the development server using: yarn dev
+   
+8. Access the app. Open your browser and navigate to http://localhost:3000 to interact with the application.
+
