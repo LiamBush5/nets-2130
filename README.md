@@ -59,7 +59,7 @@ LingoLoop is built with a React frontend, utilizing JavaScript for the backend, 
 ## Running The Application: How to Contribute
 
 1. Clone the repository. Ensure you have the project files in a directory called nets2130.
-2. Install dependencies. Run the following command in the project root: yarn install  
+2. Install dependencies. Run the following command in the project root: yarn install (You may need to delete `package-lock.json` to prevent errors on this step)
 3. Add the Supabase library. Install the required Supabase package by running: yarn add @supabase/supabase-js  
 4. Create a .env file
    
