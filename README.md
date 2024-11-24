@@ -20,9 +20,9 @@ Milestones here include creating MTurk HIT templates, implementing user-friendly
 
 ### Quality Control Module
 
-Ensuring data integrity is crucial for meaningful analysis, so this module filters responses with a simple validation methods. We ensure that users make submissions that include definitions and examples alongside the original slang term. If definitions or provided examples do not meet minimum length requirements, the responses are flagged and potentially rejected.
+Ensuring data integrity is crucial for meaningful analysis, so this module filters responses with simple validation methods. We ensure that users make submissions that include definitions and examples alongside the original slang term. If definitions or provided examples do not meet minimum length requirements, the responses are flagged and potentially rejected. In addition, duplicate submissions are automatically rejected.
 
-Key milestones include creating filtering rules and setting up attention checks.
+Key milestones include creating filtering rules and setting up filtering functionality.
 
 See `src/qc.js` for relevant code.
 
