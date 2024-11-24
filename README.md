@@ -72,3 +72,11 @@ Milestones include user interface design, API development, database setup, and b
 
 LingoLoop is built with a React frontend, utilizing JavaScript for the backend, and a SupaBase database to manage and store data. Together, these tools provide the necessary infrastructure to handle data collection, analysis, and user engagement seamlessly.
 
+## Technical Documentation
+
+This section contains a brief documentation for code relevant to QC, aggregation, and all supporting code.
+
+QC logic for assessing response quality can be found in `src/qc.js`. Additional QC logic that prevents duplicate repsonses–i.e. submitted responses whose term and generation of user match an existing response in our database–can be found in the `handleContributeSubmit()` function in `src/components/contribute.tsx`. Aggregation logic is found under `src/aggregation.js`. The rest of the core supporting code can be found in `src/components`. `src/components/contribute.tsx` implements the slang input page, `src/components/play.tsx` implements the slang quiz game, `src/components/search.tsx` implements the slang search page, and `src/components/stats.tsx` handles the aggregation results.
+
+Our project aims to assess the usage rates of slang terms over time as well as the familiarity of respondents of different generations with various slang. Slang term usage for a particular generation is measured by counting the number of times a user of that generation submits a response for the specific term. We can then use this data to compare usage totals across generations, which provides a sense of which generation finds a slang term most popular. Meanwhile, a generation's familiarity with a slang term is measured by the accuracy of that generation's respondents on the multiple-choice quiz question which asks for the term's definition.
+
