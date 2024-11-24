@@ -1,7 +1,3 @@
-Here’s the revised version with the tech stack integrated into a paragraph:
-
----
-
 # LingoLoop
 
 LingoLoop is a unique, crowdsourced platform that captures and analyzes generational language trends through slang, utilizing both data collection and gamified engagement. This project aims to provide a comprehensive view of how language evolves across different age groups by collecting, moderating, and visualizing slang terms, their definitions, and contextual usage.
