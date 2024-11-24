@@ -56,7 +56,7 @@ Milestones include user interface design, API development, database setup, and b
 
 LingoLoop is built with a React frontend, utilizing JavaScript for the backend, and a SupaBase database to manage and store data. Together, these tools provide the necessary infrastructure to handle data collection, analysis, and user engagement seamlessly.
 
-## Running The Application
+## Running The Application: How to Contribute
 
 1. Clone the repository. Ensure you have the project files in a directory called nets2130.
 2. Install dependencies. Run the following command in the project root: yarn install  
