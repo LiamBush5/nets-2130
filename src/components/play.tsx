@@ -10,10 +10,12 @@ import { useRouter } from 'next/navigation'
 
 interface QuizQuestion {
     question_id: number
+    slang_id: number
     option_a: string
     option_b: string
     option_c: string
     option_d: string
+    created_at: string
     slang_term: {
         term: string
     }
@@ -59,12 +61,8 @@ export function PlayComponent() {
         const { data: questionsData, error: questionsError } = await supabase
             .from('quiz_questions')
             .select(`
-        question_id,
-        option_a,
-        option_b,
-        option_c,
-        option_d,
-        slang_term:slang_terms (
+        *,
+        slang_term:slang_terms!slang_id (
           term
         )
       `)
