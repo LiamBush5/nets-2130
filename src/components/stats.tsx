@@ -29,12 +29,20 @@ type QuestionData = {
 }
 
 type UserResponse = {
+    response_id: number;
+    user_id: number;
+    question_id: number;
     selected_option: string;
-    user?: {
-        generation?: {
+    created_at: string;
+    user: {
+        user_id: number;
+        birth_year: number;
+        generation_id: number;
+        generation: {
+            generation_id: number;
             generation_name: string;
-        };
-    };
+        }
+    }
 }
 
 type ChartDataPoint = {
@@ -92,17 +100,19 @@ export function StatsComponent() {
 
         setQuestionData(questionData)
 
-        // Fetch user responses for this question
+        // Updated user responses query
         const { data: responsesData, error: responsesError } = await supabase
             .from('user_responses')
             .select(`
-        selected_option,
-        user:users (
-          generation:generations (
-            generation_name
-          )
-        )
-      `)
+                *,
+                user:users (
+                    *,
+                    generation:generations (
+                        generation_id,
+                        generation_name
+                    )
+                )
+            `)
             .eq('question_id', questionData.question_id)
 
         if (responsesError) {
@@ -111,7 +121,6 @@ export function StatsComponent() {
             return
         }
 
-        // Process the data
         processChartData(responsesData, questionData)
         setLoading(false)
     }, [selectedTermId])
