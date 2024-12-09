@@ -1,0 +1,1487 @@
+{
+  "raw_data": [
+    {
+      "term": "salty",
+      "generations": {
+        "Gen Z": {
+          "primary_understanding": "Annoyed, Angry, or Bitter",
+          "response_distribution": {
+            "Annoyed, Angry, or Bitter": 1.0
+          },
+          "provided_definition": null,
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1997,
+            "end": 2012
+          }
+        },
+        "Millennials": {
+          "primary_understanding": "Annoyed, Angry, or Bitter",
+          "response_distribution": {
+            "Annoyed, Angry, or Bitter": 0.6666666666666666,
+            "Tasting salty": 0.16666666666666666,
+            "Experienced or Tough": 0.16666666666666666
+          },
+          "provided_definition": "pissed off at one's misfortune",
+          "provided_example": "he salty i stunt on him",
+          "birth_year_range": {
+            "start": 1981,
+            "end": 1996
+          }
+        },
+        "Gen X": {
+          "primary_understanding": "Annoyed, Angry, or Bitter",
+          "response_distribution": {
+            "Tasting salty": 0.4,
+            "Annoyed, Angry, or Bitter": 0.4,
+            "I don't know": 0.2
+          },
+          "provided_definition": null,
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1965,
+            "end": 1980
+          }
+        },
+        "Baby Boomers": {
+          "primary_understanding": "Tasting salty",
+          "response_distribution": {
+            "Tasting salty": 0.75,
+            "Annoyed, Angry, or Bitter": 0.25
+          },
+          "provided_definition": null,
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1946,
+            "end": 1964
+          }
+        }
+      }
+    },
+    {
+      "term": "lit",
+      "generations": {
+        "Gen Z": {
+          "primary_understanding": "A great time",
+          "response_distribution": {
+            "A great time": 0.6923076923076923,
+            "To get drunk or high": 0.23076923076923078,
+            "Start a flame": 0.07692307692307693
+          },
+          "provided_definition": "super fun",
+          "provided_example": "the party was litty bop",
+          "birth_year_range": {
+            "start": 1997,
+            "end": 2012
+          }
+        },
+        "Millennials": {
+          "primary_understanding": "To get drunk or high",
+          "response_distribution": {
+            "To get drunk or high": 0.6666666666666666,
+            "A great time": 0.3333333333333333
+          },
+          "provided_definition": "cool",
+          "provided_example": "you are lit",
+          "birth_year_range": {
+            "start": 1981,
+            "end": 1996
+          }
+        },
+        "Gen X": {
+          "primary_understanding": "A great time",
+          "response_distribution": {
+            "A great time": 0.4,
+            "Start a flame": 0.2,
+            "I don't know": 0.2,
+            "To get drunk or high": 0.2
+          },
+          "provided_definition": "fire",
+          "provided_example": "That Party was Lit",
+          "birth_year_range": {
+            "start": 1965,
+            "end": 1980
+          }
+        },
+        "Baby Boomers": {
+          "primary_understanding": "Start a flame",
+          "response_distribution": {
+            "Start a flame": 0.5,
+            "I don't know": 0.25,
+            "To get drunk or high": 0.25
+          },
+          "provided_definition": null,
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1946,
+            "end": 1964
+          }
+        }
+      }
+    },
+    {
+      "term": "dope",
+      "generations": {
+        "Gen Z": {
+          "primary_understanding": "Cool ",
+          "response_distribution": {
+            "Cool ": 0.8461538461538461,
+            "I don't know": 0.07692307692307693,
+            "Drugs": 0.07692307692307693
+          },
+          "provided_definition": "test2",
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1997,
+            "end": 2012
+          }
+        },
+        "Millennials": {
+          "primary_understanding": "Cool ",
+          "response_distribution": {
+            "Cool ": 0.5,
+            "Drugs": 0.3333333333333333,
+            "One that is foolish or clueless": 0.16666666666666666
+          },
+          "provided_definition": "test 2 mil",
+          "provided_example": "test 2 mil",
+          "birth_year_range": {
+            "start": 1981,
+            "end": 1996
+          }
+        },
+        "Gen X": {
+          "primary_understanding": "Drugs",
+          "response_distribution": {
+            "Drugs": 0.6,
+            "I don't know": 0.2,
+            "Cool ": 0.2
+          },
+          "provided_definition": "test2",
+          "provided_example": "test2",
+          "birth_year_range": {
+            "start": 1965,
+            "end": 1980
+          }
+        },
+        "Baby Boomers": {
+          "primary_understanding": "Drugs",
+          "response_distribution": {
+            "One that is foolish or clueless": 0.5,
+            "Drugs": 0.5
+          },
+          "provided_definition": null,
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1946,
+            "end": 1964
+          }
+        }
+      }
+    },
+    {
+      "term": "throwback",
+      "generations": {
+        "Gen Z": {
+          "primary_understanding": "Reference of the past",
+          "response_distribution": {
+            "Reference of the past": 0.8333333333333334,
+            "What you do at the club": 0.16666666666666666
+          },
+          "provided_definition": null,
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1997,
+            "end": 2012
+          }
+        },
+        "Millennials": {
+          "primary_understanding": "Reference of the past",
+          "response_distribution": {
+            "Reference of the past": 0.8333333333333334,
+            "What you do at the club": 0.16666666666666666
+          },
+          "provided_definition": null,
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1981,
+            "end": 1996
+          }
+        },
+        "Gen X": {
+          "primary_understanding": "Reference of the past",
+          "response_distribution": {
+            "Reference of the past": 0.8,
+            "What you do at the club": 0.2
+          },
+          "provided_definition": null,
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1965,
+            "end": 1980
+          }
+        },
+        "Baby Boomers": {
+          "primary_understanding": "Reference of the past",
+          "response_distribution": {
+            "Reference of the past": 0.75,
+            "What you do at the club": 0.25
+          },
+          "provided_definition": null,
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1946,
+            "end": 1964
+          }
+        }
+      }
+    },
+    {
+      "term": "cap",
+      "generations": {
+        "Gen Z": {
+          "primary_understanding": "Not factual or incorrect",
+          "response_distribution": {
+            "Not factual or incorrect": 0.75,
+            "A type of hat": 0.25
+          },
+          "provided_definition": "test",
+          "provided_example": "test",
+          "birth_year_range": {
+            "start": 1997,
+            "end": 2012
+          }
+        },
+        "Millennials": {
+          "primary_understanding": "Not factual or incorrect",
+          "response_distribution": {
+            "Not factual or incorrect": 0.8333333333333334,
+            "A type of hat": 0.16666666666666666
+          },
+          "provided_definition": "test",
+          "provided_example": "test",
+          "birth_year_range": {
+            "start": 1981,
+            "end": 1996
+          }
+        },
+        "Gen X": {
+          "primary_understanding": "A type of hat",
+          "response_distribution": {
+            "A type of hat": 0.6,
+            "A bullet": 0.4
+          },
+          "provided_definition": "test",
+          "provided_example": "test",
+          "birth_year_range": {
+            "start": 1965,
+            "end": 1980
+          }
+        },
+        "Baby Boomers": {
+          "primary_understanding": "A type of hat",
+          "response_distribution": {
+            "A type of hat": 0.75,
+            "A bullet": 0.25
+          },
+          "provided_definition": null,
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1946,
+            "end": 1964
+          }
+        }
+      }
+    },
+    {
+      "term": "flex",
+      "generations": {
+        "Gen Z": {
+          "primary_understanding": "To show off or brag",
+          "response_distribution": {
+            "To show off or brag": 0.9230769230769231,
+            "Flex muscles": 0.07692307692307693
+          },
+          "provided_definition": null,
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1997,
+            "end": 2012
+          }
+        },
+        "Millennials": {
+          "primary_understanding": "To show off or brag",
+          "response_distribution": {
+            "To show off or brag": 0.8333333333333334,
+            "Flex muscles": 0.16666666666666666
+          },
+          "provided_definition": null,
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1981,
+            "end": 1996
+          }
+        },
+        "Gen X": {
+          "primary_understanding": "Flex muscles",
+          "response_distribution": {
+            "Flex muscles": 0.6,
+            "To show off or brag": 0.4
+          },
+          "provided_definition": null,
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1965,
+            "end": 1980
+          }
+        },
+        "Baby Boomers": {
+          "primary_understanding": "Flex muscles",
+          "response_distribution": {
+            "Flex muscles": 0.75,
+            "To show off or brag": 0.25
+          },
+          "provided_definition": null,
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1946,
+            "end": 1964
+          }
+        }
+      }
+    },
+    {
+      "term": "bet",
+      "generations": {
+        "Gen Z": {
+          "primary_understanding": "Agree or Approve",
+          "response_distribution": {
+            "Agree or Approve": 0.8333333333333334,
+            "Gamble": 0.16666666666666666
+          },
+          "provided_definition": null,
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1997,
+            "end": 2012
+          }
+        },
+        "Millennials": {
+          "primary_understanding": "Agree or Approve",
+          "response_distribution": {
+            "Agree or Approve": 0.8333333333333334,
+            "Challenge or Dare": 0.16666666666666666
+          },
+          "provided_definition": null,
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1981,
+            "end": 1996
+          }
+        },
+        "Gen X": {
+          "primary_understanding": "Gamble",
+          "response_distribution": {
+            "Gamble": 0.6,
+            "Agree or Approve": 0.4
+          },
+          "provided_definition": null,
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1965,
+            "end": 1980
+          }
+        },
+        "Baby Boomers": {
+          "primary_understanding": "Gamble",
+          "response_distribution": {
+            "Gamble": 0.5,
+            "Challenge or Dare": 0.25,
+            "Agree or Approve": 0.25
+          },
+          "provided_definition": null,
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1946,
+            "end": 1964
+          }
+        }
+      }
+    },
+    {
+      "term": "ghost",
+      "generations": {
+        "Gen Z": {
+          "primary_understanding": "To not respond to",
+          "response_distribution": {
+            "To not respond to": 0.8333333333333334,
+            "A faint remnant or memory of something": 0.08333333333333333,
+            "A spirit of a deceased person": 0.08333333333333333
+          },
+          "provided_definition": null,
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1997,
+            "end": 2012
+          }
+        },
+        "Millennials": {
+          "primary_understanding": "To not respond to",
+          "response_distribution": {
+            "To not respond to": 0.6666666666666666,
+            "A faint remnant or memory of something": 0.3333333333333333
+          },
+          "provided_definition": null,
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1981,
+            "end": 1996
+          }
+        },
+        "Gen X": {
+          "primary_understanding": "A spirit of a deceased person",
+          "response_distribution": {
+            "A spirit of a deceased person": 0.4,
+            "To not respond to": 0.4,
+            "A faint remnant or memory of something": 0.2
+          },
+          "provided_definition": null,
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1965,
+            "end": 1980
+          }
+        },
+        "Baby Boomers": {
+          "primary_understanding": "A spirit of a deceased person",
+          "response_distribution": {
+            "A spirit of a deceased person": 0.75,
+            "To not respond to": 0.25
+          },
+          "provided_definition": null,
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1946,
+            "end": 1964
+          }
+        }
+      }
+    },
+    {
+      "term": "low-key",
+      "generations": {
+        "Gen Z": {
+          "primary_understanding": "Discreet or Private",
+          "response_distribution": {
+            "Discreet or Private": 0.5833333333333334,
+            "Subdued or Understated": 0.3333333333333333,
+            "I dropped my key": 0.08333333333333333
+          },
+          "provided_definition": null,
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1997,
+            "end": 2012
+          }
+        },
+        "Millennials": {
+          "primary_understanding": "Subdued or Understated",
+          "response_distribution": {
+            "Subdued or Understated": 0.5,
+            "Discreet or Private": 0.3333333333333333,
+            "I dont't know": 0.16666666666666666
+          },
+          "provided_definition": null,
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1981,
+            "end": 1996
+          }
+        },
+        "Gen X": {
+          "primary_understanding": "Subdued or Understated",
+          "response_distribution": {
+            "Subdued or Understated": 0.5,
+            "Discreet or Private": 0.3333333333333333,
+            "I dont't know": 0.16666666666666666
+          },
+          "provided_definition": null,
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1965,
+            "end": 1980
+          }
+        },
+        "Baby Boomers": {
+          "primary_understanding": "Discreet or Private",
+          "response_distribution": {
+            "Discreet or Private": 0.5,
+            "Subdued or Understated": 0.25,
+            "I dont't know": 0.25
+          },
+          "provided_definition": null,
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1946,
+            "end": 1964
+          }
+        }
+      }
+    },
+    {
+      "term": "fire",
+      "generations": {
+        "Gen Z": {
+          "primary_understanding": "Amazing or Excellent",
+          "response_distribution": {
+            "Amazing or Excellent": 1.0
+          },
+          "provided_definition": "really good",
+          "provided_example": "The song is fire",
+          "birth_year_range": {
+            "start": 1997,
+            "end": 2012
+          }
+        },
+        "Millennials": {
+          "primary_understanding": "Amazing or Excellent",
+          "response_distribution": {
+            "Amazing or Excellent": 0.6666666666666666,
+            "Removal from employment": 0.16666666666666666,
+            "Combustion or flames": 0.16666666666666666
+          },
+          "provided_definition": "Something that is really good",
+          "provided_example": "The song is fire",
+          "birth_year_range": {
+            "start": 1981,
+            "end": 1996
+          }
+        },
+        "Gen X": {
+          "primary_understanding": "Amazing or Excellent",
+          "response_distribution": {
+            "Amazing or Excellent": 0.5,
+            "Removal from employment": 0.16666666666666666,
+            "I dont't know": 0.16666666666666666,
+            "Combustion or flames": 0.16666666666666666
+          },
+          "provided_definition": null,
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1965,
+            "end": 1980
+          }
+        },
+        "Baby Boomers": {
+          "primary_understanding": "Combustion or flames",
+          "response_distribution": {
+            "Removal from employment": 0.5,
+            "Combustion or flames": 0.5
+          },
+          "provided_definition": null,
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1946,
+            "end": 1964
+          }
+        }
+      }
+    },
+    {
+      "term": "savage",
+      "generations": {
+        "Gen Z": {
+          "primary_understanding": "Ruthless",
+          "response_distribution": {
+            "Ruthless": 0.6153846153846154,
+            "Impressive or Cool": 0.23076923076923078,
+            "Wild or Untamed": 0.15384615384615385
+          },
+          "provided_definition": null,
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1997,
+            "end": 2012
+          }
+        },
+        "Millennials": {
+          "primary_understanding": "Impressive or Cool",
+          "response_distribution": {
+            "Impressive or Cool": 0.8333333333333334,
+            "Wild or Untamed": 0.16666666666666666
+          },
+          "provided_definition": null,
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1981,
+            "end": 1996
+          }
+        },
+        "Gen X": {
+          "primary_understanding": "Wild or Untamed",
+          "response_distribution": {
+            "Wild or Untamed": 0.4,
+            "Ruthless": 0.2,
+            "I dont't know": 0.2,
+            "Impressive or Cool": 0.2
+          },
+          "provided_definition": null,
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1965,
+            "end": 1980
+          }
+        },
+        "Baby Boomers": {
+          "primary_understanding": "Wild or Untamed",
+          "response_distribution": {
+            "Wild or Untamed": 0.75,
+            "Impressive or Cool": 0.25
+          },
+          "provided_definition": null,
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1946,
+            "end": 1964
+          }
+        }
+      }
+    },
+    {
+      "term": "fam",
+      "generations": {
+        "Gen Z": {
+          "primary_understanding": "Close friends or inner circle",
+          "response_distribution": {
+            "Close friends or inner circle": 0.6666666666666666,
+            "General term of endearment": 0.3333333333333333
+          },
+          "provided_definition": null,
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1997,
+            "end": 2012
+          }
+        },
+        "Millennials": {
+          "primary_understanding": "Close friends or inner circle",
+          "response_distribution": {
+            "Close friends or inner circle": 0.5,
+            "General term of endearment": 0.3333333333333333,
+            "My Nuclear Family": 0.16666666666666666
+          },
+          "provided_definition": null,
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1981,
+            "end": 1996
+          }
+        },
+        "Gen X": {
+          "primary_understanding": "My Nuclear Family",
+          "response_distribution": {
+            "My Nuclear Family": 0.6,
+            "General term of endearment": 0.4
+          },
+          "provided_definition": null,
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1965,
+            "end": 1980
+          }
+        },
+        "Baby Boomers": {
+          "primary_understanding": "My Nuclear Family",
+          "response_distribution": {
+            "My Nuclear Family": 0.5,
+            "I dont't know": 0.25,
+            "Close friends or inner circle": 0.25
+          },
+          "provided_definition": null,
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1946,
+            "end": 1964
+          }
+        }
+      }
+    },
+    {
+      "term": "SELECT \"sweet\"",
+      "generations": {
+        "Gen Z": {
+          "primary_understanding": "Sweet",
+          "response_distribution": {
+            "Sweet": 1.0
+          },
+          "provided_definition": null,
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1997,
+            "end": 2012
+          }
+        },
+        "Millennials": {
+          "primary_understanding": "Sweet",
+          "response_distribution": {
+            "Sweet": 1.0
+          },
+          "provided_definition": null,
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1981,
+            "end": 1996
+          }
+        },
+        "Gen X": {
+          "primary_understanding": "Sweet",
+          "response_distribution": {
+            "Sweet": 1.0
+          },
+          "provided_definition": null,
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1965,
+            "end": 1980
+          }
+        },
+        "Baby Boomers": {
+          "primary_understanding": "Sweet",
+          "response_distribution": {
+            "Sweet": 1.0
+          },
+          "provided_definition": null,
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1946,
+            "end": 1964
+          }
+        }
+      }
+    },
+    {
+      "term": "shade",
+      "generations": {
+        "Gen Z": {
+          "primary_understanding": "to diss",
+          "response_distribution": {
+            "to diss": 0.8333333333333334,
+            "A window covering": 0.08333333333333333,
+            "in a shadow": 0.08333333333333333
+          },
+          "provided_definition": "to insult/diss",
+          "provided_example": "I shaded him for laughing at me",
+          "birth_year_range": {
+            "start": 1997,
+            "end": 2012
+          }
+        },
+        "Millennials": {
+          "primary_understanding": "A window covering",
+          "response_distribution": {
+            "A window covering": 0.5,
+            "to diss": 0.5
+          },
+          "provided_definition": null,
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1981,
+            "end": 1996
+          }
+        },
+        "Gen X": {
+          "primary_understanding": "to diss",
+          "response_distribution": {
+            "to diss": 0.4,
+            "in a shadow": 0.2,
+            "I dont't know": 0.2,
+            "A window covering": 0.2
+          },
+          "provided_definition": null,
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1965,
+            "end": 1980
+          }
+        },
+        "Baby Boomers": {
+          "primary_understanding": "in a shadow",
+          "response_distribution": {
+            "in a shadow": 0.5,
+            "A window covering": 0.25,
+            "to diss": 0.25
+          },
+          "provided_definition": null,
+          "provided_example": null,
+          "birth_year_range": {
+            "start": 1946,
+            "end": 1964
+          }
+        }
+      }
+    }
+  ],
+  "training_pairs": [
+    {
+      "prompt": "How does Gen Z typically understand or use the slang term 'salty'?",
+      "completion": "Based on survey data, Gen Z (born 1997-2012) most commonly understands 'salty' as 'Annoyed, Angry, or Bitter'. ",
+      "metadata": {
+        "term": "salty",
+        "generation": "Gen Z",
+        "response_distribution": {
+          "Annoyed, Angry, or Bitter": 1.0
+        }
+      }
+    },
+    {
+      "prompt": "How does Millennials typically understand or use the slang term 'salty'?",
+      "completion": "Based on survey data, Millennials (born 1981-1996) most commonly understands 'salty' as 'Annoyed, Angry, or Bitter'. A Millennials member defined it as: pissed off at one's misfortune. Example usage: he salty i stunt on him",
+      "metadata": {
+        "term": "salty",
+        "generation": "Millennials",
+        "response_distribution": {
+          "Annoyed, Angry, or Bitter": 0.6666666666666666,
+          "Tasting salty": 0.16666666666666666,
+          "Experienced or Tough": 0.16666666666666666
+        }
+      }
+    },
+    {
+      "prompt": "How does Gen X typically understand or use the slang term 'salty'?",
+      "completion": "Based on survey data, Gen X (born 1965-1980) most commonly understands 'salty' as 'Annoyed, Angry, or Bitter'. ",
+      "metadata": {
+        "term": "salty",
+        "generation": "Gen X",
+        "response_distribution": {
+          "Tasting salty": 0.4,
+          "Annoyed, Angry, or Bitter": 0.4,
+          "I don't know": 0.2
+        }
+      }
+    },
+    {
+      "prompt": "How does Baby Boomers typically understand or use the slang term 'salty'?",
+      "completion": "Based on survey data, Baby Boomers (born 1946-1964) most commonly understands 'salty' as 'Tasting salty'. ",
+      "metadata": {
+        "term": "salty",
+        "generation": "Baby Boomers",
+        "response_distribution": {
+          "Tasting salty": 0.75,
+          "Annoyed, Angry, or Bitter": 0.25
+        }
+      }
+    },
+    {
+      "prompt": "How does Gen Z typically understand or use the slang term 'lit'?",
+      "completion": "Based on survey data, Gen Z (born 1997-2012) most commonly understands 'lit' as 'A great time'. A Gen Z member defined it as: super fun. Example usage: the party was litty bop",
+      "metadata": {
+        "term": "lit",
+        "generation": "Gen Z",
+        "response_distribution": {
+          "A great time": 0.6923076923076923,
+          "To get drunk or high": 0.23076923076923078,
+          "Start a flame": 0.07692307692307693
+        }
+      }
+    },
+    {
+      "prompt": "How does Millennials typically understand or use the slang term 'lit'?",
+      "completion": "Based on survey data, Millennials (born 1981-1996) most commonly understands 'lit' as 'To get drunk or high'. A Millennials member defined it as: cool. Example usage: you are lit",
+      "metadata": {
+        "term": "lit",
+        "generation": "Millennials",
+        "response_distribution": {
+          "To get drunk or high": 0.6666666666666666,
+          "A great time": 0.3333333333333333
+        }
+      }
+    },
+    {
+      "prompt": "How does Gen X typically understand or use the slang term 'lit'?",
+      "completion": "Based on survey data, Gen X (born 1965-1980) most commonly understands 'lit' as 'A great time'. A Gen X member defined it as: fire. Example usage: That Party was Lit",
+      "metadata": {
+        "term": "lit",
+        "generation": "Gen X",
+        "response_distribution": {
+          "A great time": 0.4,
+          "Start a flame": 0.2,
+          "I don't know": 0.2,
+          "To get drunk or high": 0.2
+        }
+      }
+    },
+    {
+      "prompt": "How does Baby Boomers typically understand or use the slang term 'lit'?",
+      "completion": "Based on survey data, Baby Boomers (born 1946-1964) most commonly understands 'lit' as 'Start a flame'. ",
+      "metadata": {
+        "term": "lit",
+        "generation": "Baby Boomers",
+        "response_distribution": {
+          "Start a flame": 0.5,
+          "I don't know": 0.25,
+          "To get drunk or high": 0.25
+        }
+      }
+    },
+    {
+      "prompt": "How does Gen Z typically understand or use the slang term 'dope'?",
+      "completion": "Based on survey data, Gen Z (born 1997-2012) most commonly understands 'dope' as 'Cool '. A Gen Z member defined it as: test2. ",
+      "metadata": {
+        "term": "dope",
+        "generation": "Gen Z",
+        "response_distribution": {
+          "Cool ": 0.8461538461538461,
+          "I don't know": 0.07692307692307693,
+          "Drugs": 0.07692307692307693
+        }
+      }
+    },
+    {
+      "prompt": "How does Millennials typically understand or use the slang term 'dope'?",
+      "completion": "Based on survey data, Millennials (born 1981-1996) most commonly understands 'dope' as 'Cool '. A Millennials member defined it as: test 2 mil. Example usage: test 2 mil",
+      "metadata": {
+        "term": "dope",
+        "generation": "Millennials",
+        "response_distribution": {
+          "Cool ": 0.5,
+          "Drugs": 0.3333333333333333,
+          "One that is foolish or clueless": 0.16666666666666666
+        }
+      }
+    },
+    {
+      "prompt": "How does Gen X typically understand or use the slang term 'dope'?",
+      "completion": "Based on survey data, Gen X (born 1965-1980) most commonly understands 'dope' as 'Drugs'. A Gen X member defined it as: test2. Example usage: test2",
+      "metadata": {
+        "term": "dope",
+        "generation": "Gen X",
+        "response_distribution": {
+          "Drugs": 0.6,
+          "I don't know": 0.2,
+          "Cool ": 0.2
+        }
+      }
+    },
+    {
+      "prompt": "How does Baby Boomers typically understand or use the slang term 'dope'?",
+      "completion": "Based on survey data, Baby Boomers (born 1946-1964) most commonly understands 'dope' as 'Drugs'. ",
+      "metadata": {
+        "term": "dope",
+        "generation": "Baby Boomers",
+        "response_distribution": {
+          "One that is foolish or clueless": 0.5,
+          "Drugs": 0.5
+        }
+      }
+    },
+    {
+      "prompt": "How does Gen Z typically understand or use the slang term 'throwback'?",
+      "completion": "Based on survey data, Gen Z (born 1997-2012) most commonly understands 'throwback' as 'Reference of the past'. ",
+      "metadata": {
+        "term": "throwback",
+        "generation": "Gen Z",
+        "response_distribution": {
+          "Reference of the past": 0.8333333333333334,
+          "What you do at the club": 0.16666666666666666
+        }
+      }
+    },
+    {
+      "prompt": "How does Millennials typically understand or use the slang term 'throwback'?",
+      "completion": "Based on survey data, Millennials (born 1981-1996) most commonly understands 'throwback' as 'Reference of the past'. ",
+      "metadata": {
+        "term": "throwback",
+        "generation": "Millennials",
+        "response_distribution": {
+          "Reference of the past": 0.8333333333333334,
+          "What you do at the club": 0.16666666666666666
+        }
+      }
+    },
+    {
+      "prompt": "How does Gen X typically understand or use the slang term 'throwback'?",
+      "completion": "Based on survey data, Gen X (born 1965-1980) most commonly understands 'throwback' as 'Reference of the past'. ",
+      "metadata": {
+        "term": "throwback",
+        "generation": "Gen X",
+        "response_distribution": {
+          "Reference of the past": 0.8,
+          "What you do at the club": 0.2
+        }
+      }
+    },
+    {
+      "prompt": "How does Baby Boomers typically understand or use the slang term 'throwback'?",
+      "completion": "Based on survey data, Baby Boomers (born 1946-1964) most commonly understands 'throwback' as 'Reference of the past'. ",
+      "metadata": {
+        "term": "throwback",
+        "generation": "Baby Boomers",
+        "response_distribution": {
+          "Reference of the past": 0.75,
+          "What you do at the club": 0.25
+        }
+      }
+    },
+    {
+      "prompt": "How does Gen Z typically understand or use the slang term 'cap'?",
+      "completion": "Based on survey data, Gen Z (born 1997-2012) most commonly understands 'cap' as 'Not factual or incorrect'. A Gen Z member defined it as: test. Example usage: test",
+      "metadata": {
+        "term": "cap",
+        "generation": "Gen Z",
+        "response_distribution": {
+          "Not factual or incorrect": 0.75,
+          "A type of hat": 0.25
+        }
+      }
+    },
+    {
+      "prompt": "How does Millennials typically understand or use the slang term 'cap'?",
+      "completion": "Based on survey data, Millennials (born 1981-1996) most commonly understands 'cap' as 'Not factual or incorrect'. A Millennials member defined it as: test. Example usage: test",
+      "metadata": {
+        "term": "cap",
+        "generation": "Millennials",
+        "response_distribution": {
+          "Not factual or incorrect": 0.8333333333333334,
+          "A type of hat": 0.16666666666666666
+        }
+      }
+    },
+    {
+      "prompt": "How does Gen X typically understand or use the slang term 'cap'?",
+      "completion": "Based on survey data, Gen X (born 1965-1980) most commonly understands 'cap' as 'A type of hat'. A Gen X member defined it as: test. Example usage: test",
+      "metadata": {
+        "term": "cap",
+        "generation": "Gen X",
+        "response_distribution": {
+          "A type of hat": 0.6,
+          "A bullet": 0.4
+        }
+      }
+    },
+    {
+      "prompt": "How does Baby Boomers typically understand or use the slang term 'cap'?",
+      "completion": "Based on survey data, Baby Boomers (born 1946-1964) most commonly understands 'cap' as 'A type of hat'. ",
+      "metadata": {
+        "term": "cap",
+        "generation": "Baby Boomers",
+        "response_distribution": {
+          "A type of hat": 0.75,
+          "A bullet": 0.25
+        }
+      }
+    },
+    {
+      "prompt": "How does Gen Z typically understand or use the slang term 'flex'?",
+      "completion": "Based on survey data, Gen Z (born 1997-2012) most commonly understands 'flex' as 'To show off or brag'. ",
+      "metadata": {
+        "term": "flex",
+        "generation": "Gen Z",
+        "response_distribution": {
+          "To show off or brag": 0.9230769230769231,
+          "Flex muscles": 0.07692307692307693
+        }
+      }
+    },
+    {
+      "prompt": "How does Millennials typically understand or use the slang term 'flex'?",
+      "completion": "Based on survey data, Millennials (born 1981-1996) most commonly understands 'flex' as 'To show off or brag'. ",
+      "metadata": {
+        "term": "flex",
+        "generation": "Millennials",
+        "response_distribution": {
+          "To show off or brag": 0.8333333333333334,
+          "Flex muscles": 0.16666666666666666
+        }
+      }
+    },
+    {
+      "prompt": "How does Gen X typically understand or use the slang term 'flex'?",
+      "completion": "Based on survey data, Gen X (born 1965-1980) most commonly understands 'flex' as 'Flex muscles'. ",
+      "metadata": {
+        "term": "flex",
+        "generation": "Gen X",
+        "response_distribution": {
+          "Flex muscles": 0.6,
+          "To show off or brag": 0.4
+        }
+      }
+    },
+    {
+      "prompt": "How does Baby Boomers typically understand or use the slang term 'flex'?",
+      "completion": "Based on survey data, Baby Boomers (born 1946-1964) most commonly understands 'flex' as 'Flex muscles'. ",
+      "metadata": {
+        "term": "flex",
+        "generation": "Baby Boomers",
+        "response_distribution": {
+          "Flex muscles": 0.75,
+          "To show off or brag": 0.25
+        }
+      }
+    },
+    {
+      "prompt": "How does Gen Z typically understand or use the slang term 'bet'?",
+      "completion": "Based on survey data, Gen Z (born 1997-2012) most commonly understands 'bet' as 'Agree or Approve'. ",
+      "metadata": {
+        "term": "bet",
+        "generation": "Gen Z",
+        "response_distribution": {
+          "Agree or Approve": 0.8333333333333334,
+          "Gamble": 0.16666666666666666
+        }
+      }
+    },
+    {
+      "prompt": "How does Millennials typically understand or use the slang term 'bet'?",
+      "completion": "Based on survey data, Millennials (born 1981-1996) most commonly understands 'bet' as 'Agree or Approve'. ",
+      "metadata": {
+        "term": "bet",
+        "generation": "Millennials",
+        "response_distribution": {
+          "Agree or Approve": 0.8333333333333334,
+          "Challenge or Dare": 0.16666666666666666
+        }
+      }
+    },
+    {
+      "prompt": "How does Gen X typically understand or use the slang term 'bet'?",
+      "completion": "Based on survey data, Gen X (born 1965-1980) most commonly understands 'bet' as 'Gamble'. ",
+      "metadata": {
+        "term": "bet",
+        "generation": "Gen X",
+        "response_distribution": {
+          "Gamble": 0.6,
+          "Agree or Approve": 0.4
+        }
+      }
+    },
+    {
+      "prompt": "How does Baby Boomers typically understand or use the slang term 'bet'?",
+      "completion": "Based on survey data, Baby Boomers (born 1946-1964) most commonly understands 'bet' as 'Gamble'. ",
+      "metadata": {
+        "term": "bet",
+        "generation": "Baby Boomers",
+        "response_distribution": {
+          "Gamble": 0.5,
+          "Challenge or Dare": 0.25,
+          "Agree or Approve": 0.25
+        }
+      }
+    },
+    {
+      "prompt": "How does Gen Z typically understand or use the slang term 'ghost'?",
+      "completion": "Based on survey data, Gen Z (born 1997-2012) most commonly understands 'ghost' as 'To not respond to'. ",
+      "metadata": {
+        "term": "ghost",
+        "generation": "Gen Z",
+        "response_distribution": {
+          "To not respond to": 0.8333333333333334,
+          "A faint remnant or memory of something": 0.08333333333333333,
+          "A spirit of a deceased person": 0.08333333333333333
+        }
+      }
+    },
+    {
+      "prompt": "How does Millennials typically understand or use the slang term 'ghost'?",
+      "completion": "Based on survey data, Millennials (born 1981-1996) most commonly understands 'ghost' as 'To not respond to'. ",
+      "metadata": {
+        "term": "ghost",
+        "generation": "Millennials",
+        "response_distribution": {
+          "To not respond to": 0.6666666666666666,
+          "A faint remnant or memory of something": 0.3333333333333333
+        }
+      }
+    },
+    {
+      "prompt": "How does Gen X typically understand or use the slang term 'ghost'?",
+      "completion": "Based on survey data, Gen X (born 1965-1980) most commonly understands 'ghost' as 'A spirit of a deceased person'. ",
+      "metadata": {
+        "term": "ghost",
+        "generation": "Gen X",
+        "response_distribution": {
+          "A spirit of a deceased person": 0.4,
+          "To not respond to": 0.4,
+          "A faint remnant or memory of something": 0.2
+        }
+      }
+    },
+    {
+      "prompt": "How does Baby Boomers typically understand or use the slang term 'ghost'?",
+      "completion": "Based on survey data, Baby Boomers (born 1946-1964) most commonly understands 'ghost' as 'A spirit of a deceased person'. ",
+      "metadata": {
+        "term": "ghost",
+        "generation": "Baby Boomers",
+        "response_distribution": {
+          "A spirit of a deceased person": 0.75,
+          "To not respond to": 0.25
+        }
+      }
+    },
+    {
+      "prompt": "How does Gen Z typically understand or use the slang term 'low-key'?",
+      "completion": "Based on survey data, Gen Z (born 1997-2012) most commonly understands 'low-key' as 'Discreet or Private'. ",
+      "metadata": {
+        "term": "low-key",
+        "generation": "Gen Z",
+        "response_distribution": {
+          "Discreet or Private": 0.5833333333333334,
+          "Subdued or Understated": 0.3333333333333333,
+          "I dropped my key": 0.08333333333333333
+        }
+      }
+    },
+    {
+      "prompt": "How does Millennials typically understand or use the slang term 'low-key'?",
+      "completion": "Based on survey data, Millennials (born 1981-1996) most commonly understands 'low-key' as 'Subdued or Understated'. ",
+      "metadata": {
+        "term": "low-key",
+        "generation": "Millennials",
+        "response_distribution": {
+          "Subdued or Understated": 0.5,
+          "Discreet or Private": 0.3333333333333333,
+          "I dont't know": 0.16666666666666666
+        }
+      }
+    },
+    {
+      "prompt": "How does Gen X typically understand or use the slang term 'low-key'?",
+      "completion": "Based on survey data, Gen X (born 1965-1980) most commonly understands 'low-key' as 'Subdued or Understated'. ",
+      "metadata": {
+        "term": "low-key",
+        "generation": "Gen X",
+        "response_distribution": {
+          "Subdued or Understated": 0.5,
+          "Discreet or Private": 0.3333333333333333,
+          "I dont't know": 0.16666666666666666
+        }
+      }
+    },
+    {
+      "prompt": "How does Baby Boomers typically understand or use the slang term 'low-key'?",
+      "completion": "Based on survey data, Baby Boomers (born 1946-1964) most commonly understands 'low-key' as 'Discreet or Private'. ",
+      "metadata": {
+        "term": "low-key",
+        "generation": "Baby Boomers",
+        "response_distribution": {
+          "Discreet or Private": 0.5,
+          "Subdued or Understated": 0.25,
+          "I dont't know": 0.25
+        }
+      }
+    },
+    {
+      "prompt": "How does Gen Z typically understand or use the slang term 'fire'?",
+      "completion": "Based on survey data, Gen Z (born 1997-2012) most commonly understands 'fire' as 'Amazing or Excellent'. A Gen Z member defined it as: really good. Example usage: The song is fire",
+      "metadata": {
+        "term": "fire",
+        "generation": "Gen Z",
+        "response_distribution": {
+          "Amazing or Excellent": 1.0
+        }
+      }
+    },
+    {
+      "prompt": "How does Millennials typically understand or use the slang term 'fire'?",
+      "completion": "Based on survey data, Millennials (born 1981-1996) most commonly understands 'fire' as 'Amazing or Excellent'. A Millennials member defined it as: Something that is really good. Example usage: The song is fire",
+      "metadata": {
+        "term": "fire",
+        "generation": "Millennials",
+        "response_distribution": {
+          "Amazing or Excellent": 0.6666666666666666,
+          "Removal from employment": 0.16666666666666666,
+          "Combustion or flames": 0.16666666666666666
+        }
+      }
+    },
+    {
+      "prompt": "How does Gen X typically understand or use the slang term 'fire'?",
+      "completion": "Based on survey data, Gen X (born 1965-1980) most commonly understands 'fire' as 'Amazing or Excellent'. ",
+      "metadata": {
+        "term": "fire",
+        "generation": "Gen X",
+        "response_distribution": {
+          "Amazing or Excellent": 0.5,
+          "Removal from employment": 0.16666666666666666,
+          "I dont't know": 0.16666666666666666,
+          "Combustion or flames": 0.16666666666666666
+        }
+      }
+    },
+    {
+      "prompt": "How does Baby Boomers typically understand or use the slang term 'fire'?",
+      "completion": "Based on survey data, Baby Boomers (born 1946-1964) most commonly understands 'fire' as 'Combustion or flames'. ",
+      "metadata": {
+        "term": "fire",
+        "generation": "Baby Boomers",
+        "response_distribution": {
+          "Removal from employment": 0.5,
+          "Combustion or flames": 0.5
+        }
+      }
+    },
+    {
+      "prompt": "How does Gen Z typically understand or use the slang term 'savage'?",
+      "completion": "Based on survey data, Gen Z (born 1997-2012) most commonly understands 'savage' as 'Ruthless'. ",
+      "metadata": {
+        "term": "savage",
+        "generation": "Gen Z",
+        "response_distribution": {
+          "Ruthless": 0.6153846153846154,
+          "Impressive or Cool": 0.23076923076923078,
+          "Wild or Untamed": 0.15384615384615385
+        }
+      }
+    },
+    {
+      "prompt": "How does Millennials typically understand or use the slang term 'savage'?",
+      "completion": "Based on survey data, Millennials (born 1981-1996) most commonly understands 'savage' as 'Impressive or Cool'. ",
+      "metadata": {
+        "term": "savage",
+        "generation": "Millennials",
+        "response_distribution": {
+          "Impressive or Cool": 0.8333333333333334,
+          "Wild or Untamed": 0.16666666666666666
+        }
+      }
+    },
+    {
+      "prompt": "How does Gen X typically understand or use the slang term 'savage'?",
+      "completion": "Based on survey data, Gen X (born 1965-1980) most commonly understands 'savage' as 'Wild or Untamed'. ",
+      "metadata": {
+        "term": "savage",
+        "generation": "Gen X",
+        "response_distribution": {
+          "Wild or Untamed": 0.4,
+          "Ruthless": 0.2,
+          "I dont't know": 0.2,
+          "Impressive or Cool": 0.2
+        }
+      }
+    },
+    {
+      "prompt": "How does Baby Boomers typically understand or use the slang term 'savage'?",
+      "completion": "Based on survey data, Baby Boomers (born 1946-1964) most commonly understands 'savage' as 'Wild or Untamed'. ",
+      "metadata": {
+        "term": "savage",
+        "generation": "Baby Boomers",
+        "response_distribution": {
+          "Wild or Untamed": 0.75,
+          "Impressive or Cool": 0.25
+        }
+      }
+    },
+    {
+      "prompt": "How does Gen Z typically understand or use the slang term 'fam'?",
+      "completion": "Based on survey data, Gen Z (born 1997-2012) most commonly understands 'fam' as 'Close friends or inner circle'. ",
+      "metadata": {
+        "term": "fam",
+        "generation": "Gen Z",
+        "response_distribution": {
+          "Close friends or inner circle": 0.6666666666666666,
+          "General term of endearment": 0.3333333333333333
+        }
+      }
+    },
+    {
+      "prompt": "How does Millennials typically understand or use the slang term 'fam'?",
+      "completion": "Based on survey data, Millennials (born 1981-1996) most commonly understands 'fam' as 'Close friends or inner circle'. ",
+      "metadata": {
+        "term": "fam",
+        "generation": "Millennials",
+        "response_distribution": {
+          "Close friends or inner circle": 0.5,
+          "General term of endearment": 0.3333333333333333,
+          "My Nuclear Family": 0.16666666666666666
+        }
+      }
+    },
+    {
+      "prompt": "How does Gen X typically understand or use the slang term 'fam'?",
+      "completion": "Based on survey data, Gen X (born 1965-1980) most commonly understands 'fam' as 'My Nuclear Family'. ",
+      "metadata": {
+        "term": "fam",
+        "generation": "Gen X",
+        "response_distribution": {
+          "My Nuclear Family": 0.6,
+          "General term of endearment": 0.4
+        }
+      }
+    },
+    {
+      "prompt": "How does Baby Boomers typically understand or use the slang term 'fam'?",
+      "completion": "Based on survey data, Baby Boomers (born 1946-1964) most commonly understands 'fam' as 'My Nuclear Family'. ",
+      "metadata": {
+        "term": "fam",
+        "generation": "Baby Boomers",
+        "response_distribution": {
+          "My Nuclear Family": 0.5,
+          "I dont't know": 0.25,
+          "Close friends or inner circle": 0.25
+        }
+      }
+    },
+    {
+      "prompt": "How does Baby Boomers typically understand or use the slang term 'SELECT \"sweet\"'?",
+      "completion": "Based on survey data, Baby Boomers (born 1946-1964) most commonly understands 'SELECT \"sweet\"' as 'Sweet'. ",
+      "metadata": {
+        "term": "SELECT \"sweet\"",
+        "generation": "Baby Boomers",
+        "response_distribution": {
+          "Sweet": 1.0
+        }
+      }
+    },
+    {
+      "prompt": "How does Gen Z typically understand or use the slang term 'shade'?",
+      "completion": "Based on survey data, Gen Z (born 1997-2012) most commonly understands 'shade' as 'to diss'. A Gen Z member defined it as: to insult/diss. Example usage: I shaded him for laughing at me",
+      "metadata": {
+        "term": "shade",
+        "generation": "Gen Z",
+        "response_distribution": {
+          "to diss": 0.8333333333333334,
+          "A window covering": 0.08333333333333333,
+          "in a shadow": 0.08333333333333333
+        }
+      }
+    },
+    {
+      "prompt": "How does Millennials typically understand or use the slang term 'shade'?",
+      "completion": "Based on survey data, Millennials (born 1981-1996) most commonly understands 'shade' as 'A window covering'. ",
+      "metadata": {
+        "term": "shade",
+        "generation": "Millennials",
+        "response_distribution": {
+          "A window covering": 0.5,
+          "to diss": 0.5
+        }
+      }
+    },
+    {
+      "prompt": "How does Gen X typically understand or use the slang term 'shade'?",
+      "completion": "Based on survey data, Gen X (born 1965-1980) most commonly understands 'shade' as 'to diss'. ",
+      "metadata": {
+        "term": "shade",
+        "generation": "Gen X",
+        "response_distribution": {
+          "to diss": 0.4,
+          "in a shadow": 0.2,
+          "I dont't know": 0.2,
+          "A window covering": 0.2
+        }
+      }
+    },
+    {
+      "prompt": "How does Baby Boomers typically understand or use the slang term 'shade'?",
+      "completion": "Based on survey data, Baby Boomers (born 1946-1964) most commonly understands 'shade' as 'in a shadow'. ",
+      "metadata": {
+        "term": "shade",
+        "generation": "Baby Boomers",
+        "response_distribution": {
+          "in a shadow": 0.5,
+          "A window covering": 0.25,
+          "to diss": 0.25
+        }
+      }
+    }
+  ]
+}
