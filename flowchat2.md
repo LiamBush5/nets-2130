@@ -1,9 +1,9 @@
 ```mermaid
 flowchart TD
     A[Data Collection Phase] --> |MTurk Workers Input| A1[Birth Year]
-    A --> |MTurk Workers Input| A2[Slang Term]
-    A --> |MTurk Workers Input| A3[Example Sentence]
-    A --> |MTurk Workers Input| A4[Definition]
+    A --> |Volunteers Input| A2[Slang Term]
+    A --> |Volunteers Input| A3[Example Sentence]
+    A --> |Volunteers Input| A4[Definition]
 
     A1 --> B[Quality Control Module]
     A2 --> B
